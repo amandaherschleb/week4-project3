@@ -36,6 +36,10 @@ li {
   margin-left: 10%;
 }
 
+.changeTextColors body {
+  background: url("images/dark_embroidery.png");
+}
+
 .changeTextColors h1 {
   color: #306009;
 }
@@ -70,6 +74,12 @@ li {
 #social-links img {
   background-color: none;
 }
+
+.socialBackground {
+  background-color: #6bd2db;
+  border-radius: 10px;
+}
+
 
 #email {
   text-align: center;
@@ -106,7 +116,7 @@ li {
   width: 300px;
 }
 
-.reference-contact.hidden {
+.reference-contact-hidden {
   visibility:hidden;
 }
 
